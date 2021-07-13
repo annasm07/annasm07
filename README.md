@@ -15,9 +15,9 @@
 
 - 📄 Know about my experiences [https://ducky-designs.com/wp-content/uploads/2020/02/AnnaSala_2020Resume.pdf](https://ducky-designs.com/wp-content/uploads/2020/02/AnnaSala_2020Resume.pdf)
 
-- ⚡ Fun fact **I lived in the US for 5 years!**
+- ⚡ Fun fact about me **I lived in the US for 5 years!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Lets get in touch:</h3>
 <p align="left">
 <a href="https://codepen.io/annasm07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="annasm07" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/anna-sala/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anna-sala/" height="30" width="40" /></a>
