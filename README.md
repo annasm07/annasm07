@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [AS tennis application](https://github.com/annasm07/Tennis-App---AS)
 
-- 🌱 I’m currently learning **AWE and Vue**
+- 🌱 I’m currently learning **AWS and Vue**
 
 - 👩🏼‍🏫 I’m an assistant professor at [Skylab Coders Academy](https://github.com/SkylabCoders)
 
