@@ -1,21 +1,21 @@
 <h1 align="center">Hello 😊, I'm Anna Sala Mercade</h1>
 <h3 align="center">A motivated and enthusiastic frontend developer from Spain</h3>
 
-- 🔭 I’m currently working on [AS tennis application](https://github.com/annasm07/AS-tennisApp)
+- 🔭 I’m currently working on [AS tennis application](https://github.com/annasm07/Tennis-App---AS)
 
-- 🌱 I’m currently learning **Vue and Next JS.**
+- 🌱 I’m currently learning **AWE and Vue**
 
 - 👩🏼‍🏫 I’m an assistant professor at [Skylab Coders Academy](https://github.com/SkylabCoders)
 
 - 👨‍💻 All of my projects are available at [https://github.com/annasm07](https://github.com/annasm07)
 
-- 💬 Ask me about **Javascript, React, React Native, Redux, Mongo DB, and more!**
+- 💬 Ask me about **Javascript, React, React Native, Redux, Mongo DB, DynamoDB and more!**
 
 - 📫 How to reach me **anna.sala.mercade@gmail.com**
 
 - 📄 Know about my experiences [https://ducky-designs.com/wp-content/uploads/2020/02/AnnaSala_2020Resume.pdf](https://ducky-designs.com/wp-content/uploads/2020/02/AnnaSala_2020Resume.pdf)
 
-- ⚡ Fun fact about me **I lived in the US for 5 years!**
+- ⚡ A fun fact about me -> **I lived in the US for 5 years!**
 
 <h3 align="left">Lets get in touch:</h3>
 <p align="left">
