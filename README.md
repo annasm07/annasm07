@@ -30,4 +30,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=annasm07&show_icons=true&locale=en&layout=compact" alt="annasm07" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=annasm07&" alt="annasm07" /></p>
