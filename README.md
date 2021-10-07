@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AWS and Vue**
 
-- 👩🏼‍🏫 I’m an assistant professor at [Skylab Coders Academy](https://github.com/SkylabCoders)
+- 👩🏼‍🏫 I’m an professor at [Skylab Coders Academy](https://github.com/SkylabCoders)
 
 - 👨‍💻 All of my projects are available at [https://github.com/annasm07](https://github.com/annasm07)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **anna.sala.mercade@gmail.com**
 
-- 📄 Know about my experiences [https://ducky-designs.com/wp-content/uploads/2020/02/AnnaSala_2020Resume.pdf](https://ducky-designs.com/wp-content/uploads/2020/02/AnnaSala_2020Resume.pdf)
+- 📄 Know about my experiences [ducky-designs.com](https://ducky-designs.com/wp-content/uploads/2021/07/WEB-AnnaSala_2021Resume.pdf)
 
 - ⚡ A fun fact about me -> **I lived in the US for 5 years!**
 
