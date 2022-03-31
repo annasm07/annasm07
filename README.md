@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on [AS tennis application](https://github.com/annasm07/Tennis-App---AS)
 
-- 🌱 I’m currently learning **AWS and Vue**
-
-- 👩🏼‍🏫 I’m an professor at [Skylab Coders Academy](https://github.com/SkylabCoders)
+- 👩🏼‍🏫 I’m a Frontend Developer at SEAT:CODE
 
 - 👨‍💻 All of my projects are available at [https://github.com/annasm07](https://github.com/annasm07)
 
