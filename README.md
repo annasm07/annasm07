@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [AS tennis application](https://github.com/annasm07/Tennis-App---AS)
 
-- 👩🏼‍🏫 I’m a Frontend Developer at SEAT:CODE
+- 👩🏼‍🏫 I’m a Frontend Developer at Volkswagen Group Services
 
 - 👨‍💻 All of my projects are available at [https://github.com/annasm07](https://github.com/annasm07)
 
-- 💬 Ask me about **Javascript, React, React Native, Redux, Mongo DB, DynamoDB and more!**
+- 💬 Ask me about **Javascript, React, React Native, React Query, Cypress, Storybook, and more!**
 
 - 📫 How to reach me **anna.sala.mercade@gmail.com**
 
