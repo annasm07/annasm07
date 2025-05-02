@@ -3,15 +3,13 @@
 
 - 🔭 I’m currently working on [AS tennis application](https://github.com/annasm07/Tennis-App---AS)
 
-- 👩🏼‍🏫 I’m a Frontend Developer at Volkswagen Group Services
+- 👩🏼‍🏫 I’m a Frontend Developer at IFCO Systems
 
 - 👨‍💻 All of my projects are available at [https://github.com/annasm07](https://github.com/annasm07)
 
-- 💬 Ask me about **Javascript, React, React Native, React Query, Cypress, Storybook, and more!**
+- 💬 Ask me about **Javascript, Typescript, React, React Native, React Query, Cypress, Storybook, and more!**
 
 - 📫 How to reach me **anna.sala.mercade@gmail.com**
-
-- 📄 Know about my experiences at [ducky-designs.com](https://ducky-designs.com/wp-content/uploads/2021/07/WEB-AnnaSala_2021Resume.pdf)
 
 - ⚡ A fun fact about me -> **I lived in the US for 5 years!**
 
